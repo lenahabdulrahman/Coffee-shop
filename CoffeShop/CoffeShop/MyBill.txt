@@ -1,0 +1,14 @@
+Bill Details
+**************************************
+Name: cup cake caramel	 Price: 40	 Quantity: 2
+Name: cup cake nescafe	 Price: 40	 Quantity: 1
+Name: donats double chocolate	 Price: 100	 Quantity: 1
+Name: coffe	 Price: 15	 Quantity: 1
+Name: cup cake chocolate	 Price: 50	 Quantity: 1
+Name: coffe	 Price: 100	 Quantity: 1
+User Name: Wafa
+Order Date : 05/12/2020 23:38:42
+Total without tax : 385.0
+Tax  : 96.25
+Total with tax  : 481.25
+
